@@ -44,7 +44,7 @@ It is designed to handle multiple student records efficiently and demonstrates t
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Mamoonkhan11/Student-Management-System
 ```
 
 2. Compile the code:
@@ -66,7 +66,7 @@ Follow the on-screen menu to manage student records.
 ## Code Structure
 
 ```
-.
+STUDENT MANAGEMENT SYSTEM
 ├── student.h         
 ├── student.c         
 ├── main.c            
